@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 Thank you for visiting my Github profile. I am Kenneth. Graduate from the University of Toronto.
-I am learning the tricks and trades of web development. Please do not hesitate to snoop around and provide feedback!
+I am learning the tricks and trades of web development, my particular inclination is towards front-end web development. Please do not hesitate to snoop around and provide feedback!
 
 My web development portfolio: <a href="https://kennethius.github.io/Kenneth_Mubu_Portfolio/">Kenneth Mubu's Portfolio</a>
 
 - 🔭 I’m currently working on Garron's Barber Shop Website & <a href="https://www.frontendmentor.io/profile/Kennethius">Front-end Mentor Challenges</a>
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning web challenges, including javascript
 - 📫 How to reach me: 
       email: kennethmubu@protonmail.com
       linkedIn: https://www.linkedin.com/in/kennethmubu/
