@@ -6,7 +6,7 @@ I am learning the tricks and trades of web development, my particular inclinatio
 My web development portfolio: <a href="https://kennethius.github.io/Kenneth_Mubu_Portfolio/">Kenneth Mubu's Portfolio</a>
 
 - 🔭 I’m currently working on Garron's Barber Shop Website & <a href="https://www.frontendmentor.io/profile/Kennethius">Front-end Mentor Challenges</a>
-- 🌱 I’m currently learning web challenges, including javascript
+- 🌱 I’m currently learning web challenges and Vue.js
 - 📫 How to reach me: 
       email: kennethmubu@protonmail.com
       linkedIn: https://www.linkedin.com/in/kennethmubu/
