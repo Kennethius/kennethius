@@ -13,7 +13,6 @@ My web development portfolio: <a href="https://kennethius.github.io/Kenneth_Mubu
 
 ## I'm shaping my career towards front-end development
 
-- 🌱 I’m currently learning web challenges and Vue.js!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to land my first full-time web developer job
