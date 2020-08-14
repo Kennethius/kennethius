@@ -22,13 +22,6 @@ My web development portfolio: <a href="https://kennethius.github.io/Kenneth_Mubu
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/andromanonthemoon?si=2PCELzL9RMC_Uo6iJ0GSmQ)
 
-
-### Connect with me:
-
-<a href="https://kennethius.github.io/Kenneth_Mubu_Portfolio/"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href='https://www.linkedin.com/in/kennethmubu/'>img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-
 <br />
 
 ### Languages and Tools:
