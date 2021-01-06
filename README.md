@@ -5,7 +5,7 @@ I am learning the tricks and trades of web development, my particular inclinatio
 
 My web development portfolio: <a href="https://kennethius.github.io/Kenneth_Mubu_Portfolio/">Kenneth Mubu's Portfolio</a>
 
-- I just got my CompTIA A+ ce Certification on January 6, 2021 <a href="https://www.youracclaim.com/badges/18c0de1d-612a-4c40-953e-389a7f55f018/public_url">
+- I just got my CompTIA A+ ce Certification on January 6, 2021 <a href="https://www.youracclaim.com/badges/18c0de1d-612a-4c40-953e-389a7f55f018/public_url">Click here</a>
 
 - 🔭 I’m currently working on CCNA qualification (In progress: 6 January - February)
 
